@@ -1,32 +1,7 @@
-.. You should enable this project on travis-ci.org and coveralls.io to make
-   these badges work. The necessary Travis and Coverage config files have been
-   generated for you.
-
-.. image:: https://travis-ci.org//ckanext-collectivat_theme.svg?branch=master
-    :target: https://travis-ci.org//ckanext-collectivat_theme
-
-.. image:: https://coveralls.io/repos//ckanext-collectivat_theme/badge.svg
-  :target: https://coveralls.io/r//ckanext-collectivat_theme
-
-.. image:: https://pypip.in/download/ckanext-collectivat_theme/badge.svg
-    :target: https://pypi.python.org/pypi//ckanext-collectivat_theme/
-    :alt: Downloads
-
-.. image:: https://pypip.in/version/ckanext-collectivat_theme/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-collectivat_theme/
-    :alt: Latest Version
-
-.. image:: https://pypip.in/py_versions/ckanext-collectivat_theme/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-collectivat_theme/
-    :alt: Supported Python versions
-
-.. image:: https://pypip.in/status/ckanext-collectivat_theme/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-collectivat_theme/
-    :alt: Development Status
-
-.. image:: https://pypip.in/license/ckanext-collectivat_theme/badge.svg
-    :target: https://pypi.python.org/pypi/ckanext-collectivat_theme/
-    :alt: License
+.. image:: https://raw.githubusercontent.com/CollectivaT-dev/judeo-espanyol-resources/main/img/ab-tr.jpg
+  :width: 400
+  :align: center
+  :alt: Alternative text
 
 =============
 ckanext-collectivat_theme
@@ -164,3 +139,15 @@ To publish a new version to PyPI follow these steps:
 
        git tag 0.0.2
        git push --tags
+       
+       
+ ---
+ 
+.. image:: https://raw.githubusercontent.com/CollectivaT-dev/judeo-espanyol-resources/main/img/logos.png
+  :width: 400
+  :align: center
+  :alt: Alternative text
+
+This repo is developed as part of project "Judeo-Spanish: Connecting the two ends of the Mediterranean" carried out by Col·lectivaT and Sephardic Center of Istanbul within the framework of the “Grant Scheme for Common Cultural Heritage: Preservation and Dialogue between Turkey and the EU–II (CCH-II)” implemented by the Ministry of Culture and Tourism of the Republic of Turkey with the financial support of the European Union. The content of this website is the sole responsibility of Col·lectivaT and does not necessarily reflect the views of the European Union. 
+
+
