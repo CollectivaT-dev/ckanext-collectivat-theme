@@ -1,5 +1,4 @@
-.. image:: https://raw.githubusercontent.com/CollectivaT-dev/judeo-espanyol-resources/main/img/ab-tr.jpg
-  :width: 400
+.. image:: https://raw.githubusercontent.com/CollectivaT-dev/judeo-espanyol-resources/main/img/centered-ab-tr.png
   :align: center
   :alt: Alternative text
 
@@ -140,11 +139,8 @@ To publish a new version to PyPI follow these steps:
        git tag 0.0.2
        git push --tags
        
-       
- ---
- 
+
 .. image:: https://raw.githubusercontent.com/CollectivaT-dev/judeo-espanyol-resources/main/img/logos.png
-  :width: 400
   :align: center
   :alt: Alternative text
 
